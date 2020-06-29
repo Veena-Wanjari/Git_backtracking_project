@@ -13,6 +13,7 @@ The related txt files are -
 3) oven-bird.txt
 4) fire-and-ice.txt
 5) house.txt
+6) tree.txt
 
 Basic Commands used -
 
